@@ -1,0 +1,1 @@
+<h1>first post page</h1><?php /**PATH G:\Laravel\project\resources\views/firstpost.blade.php ENDPATH**/ ?>
